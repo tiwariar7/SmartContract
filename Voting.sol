@@ -3,6 +3,9 @@ pragma solidity ^0.8.9;
 
 // We have to specify what version of compiler this code will compile with
 
+// ["0x666f6f0000000000000000000000000000000000000000000000000000000000","0x6261720000000000000000000000000000000000000000000000000000000000"]
+    
+
 contract Voting {
     /* mapping field below is equivalent to an associative array or hash.
   The key of the mapping is candidate name stored as type bytes32 and value is
